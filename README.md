@@ -177,7 +177,6 @@ http://www.youtube.com/watch?v=1ztMYYV7TVY
 огромной, собранной за годы статистике.
 
 FIXME: побольше узнать про посттравмотический стресс, травматическая память, психологическая упругость, факторы риска (google: Израиль постр стресс)
-http://ak-inzt.net/opinion/4454-13-12-2014-psihologicheskaja-uprugost-zalog-vyzhivanija-vo-vremja-vojny
 
 Other notes:
 

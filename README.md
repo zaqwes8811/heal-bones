@@ -3,7 +3,7 @@ Proposal for conservative treatment of scoliosis (Предложение по к
 #####Известные технологии:
 - Метод Катарины Шрот. Основан на довольно необычной идее. Некоторые россияне считаю этот метод шерлотанством, но он 
 широко используесят в Германии и Израиле - а у них медицина все же на высоте. http://www.ecsto.ru/news/2848 - рандомная гуглоссыль
-- http://www.spinalis.ru/aboutus.htm
+- **http://www.spinalis.ru/aboutus.htm**
 - http://b2blogger.com/pressroom/186746.html
 
 

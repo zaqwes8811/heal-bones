@@ -8,6 +8,7 @@ Research project. Proposal for conservative treatment of scoliosis use Machine L
 широко используесят в Германии и Израиле - а у них медицина все же на высоте. http://www.ecsto.ru/news/2848 - рандомная гуглоссыль
 - **http://www.spinalis.ru/aboutus.htm** - !
 - http://b2blogger.com/pressroom/186746.html
+- http://skoliose.ru/fits/
 
 #####Cases:
 - [Andrew/26](cases/main.md)

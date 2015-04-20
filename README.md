@@ -12,13 +12,13 @@ Research project. Proposal for conservative treatment of scoliosis use Machine L
 Core idea: (superv + non-superv) + NN + regul + opt algorithms + (механика рассеивания накопленной энергии + заколение мышц)
 
 Ниже модель нейронной сети. По сути обучение это рекулировка весов связей - они выделены серым.
-![модель нейронной сети](imgs/km_perceptron_01.jpg)
+->![модель нейронной сети](imgs/km_perceptron_01.jpg)<-
 
 !! на гифке очень резкие перемещений - не надо так!
 
 ->![This is a title](imgs/left.gif)<-
 
-![This is a title](imgs/1.jpeg)
+->![This is a title](imgs/1.jpeg)<-
 
 FIXME: Может и не так. Может просто при обучении с учителем в нейронной сети много локальных минимумов.
 *Моя версия почему что делалают часто не срабатывает.* Цитатка есть - **"The mind can be a powerful ally or

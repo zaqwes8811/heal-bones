@@ -1,4 +1,4 @@
-Research project. Proposal for conservative treatment of scoliosis use Machine Learning ideas
+**Research project: Proposal for conservative treatment of scoliosis use Machine Learning ideas**
 (Предложение по консервативному лечению сколиоза используя методы Машинного обучения)
 До этого ничего пободного не встречал и решил описать его здесь, может гугл для кого-то найдет. Изначально идея разрабатывалась как помощь одному моему товарищу.
 

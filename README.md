@@ -121,3 +121,5 @@ FIXME: почитать про EMDR
 FIXME: to Ng
 
 FIXME: case stories
+
+FIXME: см видео и основную его идею, про мозг и древние инстинкты http://odepressii.ru/narusheniya/posttravmaticheskoe-stressovoe-rasstrojstvo.html

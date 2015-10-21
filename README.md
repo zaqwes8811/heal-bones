@@ -123,3 +123,5 @@ FIXME: to Ng
 FIXME: case stories
 
 FIXME: см видео и основную его идею, про мозг и древние инстинкты http://odepressii.ru/narusheniya/posttravmaticheskoe-stressovoe-rasstrojstvo.html
+
+Бегать короткие дистанции нужно реально быстро, это добавляет шума

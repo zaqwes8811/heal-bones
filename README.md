@@ -21,7 +21,7 @@ fixme: соотношение модель-данные - нейронка не 
 - http://b2blogger.com/pressroom/186746.html
 - http://skoliose.ru/fits/
 
-**Core idea:** (superv + non-superv) + NN + regul + opt algorithms + dev process + (механика рассеивания накопленной энергии + заколение мышц)
+**Core idea:** (superv + non-superv) + NN + regul + opt algorithms + dev process + (механика рассеивания накопленной энергии + заколение мышц) + не марковость отсчетов(семплы должны быть не зависимыми, найтим видео о зависимом обучении)
 
 ![This is a title](imgs/1.jpeg)
 
